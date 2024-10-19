@@ -8,8 +8,7 @@ Bosnian, Bulgarian, Catalan, Cebuano, Chinese (simplified), Chinese (traditional
 # Supported format:
 - .mp4
 
-# How to launch:
-on Windows:
+# How to launch on Windows:
 - Ensure you have Python installed and created virtual environment in the app directory;
 - ```git clone https://github.com/kekowec/subtitlebuddy```
 - ```python -m venv subtitlebuddy```
@@ -20,7 +19,7 @@ on Windows:
 - Check "Translate" and enter language you want subtitles to be translated to;
 - Press "Open Video";
 - Wait for app to generate subtitles and press "Play" when you'll get message that subtitles are ready.
-on Linux:
+# How to launch on Linux:
 - Ensure you have Python installed and created virtual environment in the app directory;
 - ```git clone https://github.com/kekowec/subtitlebuddy```
 - ```python -m venv subtitlebuddy```
