@@ -11,7 +11,7 @@ Bosnian, Bulgarian, Catalan, Cebuano, Chinese (simplified), Chinese (traditional
 # How to launch:
 - Ensure you have Python installed;
 - Clone repository;
-- cd app_directory;
+- cd subtitlebuddy;
 - python app.py;
 - Check "Translate" and enter language you want subtitles to be translated to;
 - Press "Open Video";
