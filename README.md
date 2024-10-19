@@ -14,7 +14,6 @@ Bosnian, Bulgarian, Catalan, Cebuano, Chinese (simplified), Chinese (traditional
 - ```python -m venv subtitlebuddy```
 - ```cd subtitlebuddy```
 - ```source bin/activate```
-- ```python -m venv virtual_env```
 - ```pip install opencv-python pygame pyqt5 moviepy whisper pysrt deep_translator```
 - ```python app.py```
 - Check "Translate" and enter language you want subtitles to be translated to;
