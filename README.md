@@ -9,10 +9,14 @@ Bosnian, Bulgarian, Catalan, Cebuano, Chinese (simplified), Chinese (traditional
 - .mp4
 
 # How to launch:
-- Ensure you have Python installed;
-- Clone repository;
-- cd subtitlebuddy;
-- python app.py;
+- Ensure you have Python installed and created virtual environment in the app directory;
+- ```git clone https://github.com/kekowec/subtitlebuddy```
+- ```python -m venv subtitlebuddy```
+- ```cd subtitlebuddy```
+- ```source bin/activate```
+- ```python -m venv virtual_env```
+- ```pip install opencv-python pygame pyqt5 moviepy whisper pysrt deep_translator```
+- ```python app.py```
 - Check "Translate" and enter language you want subtitles to be translated to;
 - Press "Open Video";
 - Wait for app to generate subtitles and press "Play" when you'll get message that subtitles are ready.
